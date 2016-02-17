@@ -1,0 +1,14 @@
+{
+  "name": "totil",
+  "version": "1.0.0",
+  "description": "are you tired of truthy and falsy values in JS?",
+  "main": "src/totil.js",
+  "author": "Jonathan Tavares",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "buster": "~0.7.18"
+  },
+  "scripts": {
+    "test": "buster-test"
+  }
+}
