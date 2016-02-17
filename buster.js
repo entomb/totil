@@ -1,6 +1,6 @@
 var config = module.exports;
 
-config["My tests"] = {
+config["Totil test driven"] = {
     rootPath: "./",
     environment: "node", // or "node"
     sources: [
