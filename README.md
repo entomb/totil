@@ -1,5 +1,10 @@
 #Totil fixe!
-Totil is a joke lib, made with love but just for laughs 
+
+
+[![Totil.js on NPM](https://img.shields.io/npm/v/totil.svg?style=flat-square)](https://www.npmjs.com/package/totil)
+
+
+> Totil is a joke lib, made with love but just for laughs 
 
 ##Instalation
 
