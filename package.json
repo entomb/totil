@@ -1,6 +1,6 @@
 {
   "name": "totil",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "are you tired of truthy and falsy values in JS?",
   "main": "src/totil.js",
   "author": "Jonathan Tavares",
