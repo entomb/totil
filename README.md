@@ -1,4 +1,4 @@
-#Totil fixe!
+# Totil fixe!
 
 [![Totil.js on NPM](https://img.shields.io/npm/v/totil.svg)](https://www.npmjs.com/package/totil)
 [![Build Status](https://travis-ci.org/entomb/totil.svg?branch=master)](https://travis-ci.org/entomb/totil)
@@ -10,16 +10,16 @@
 
 > Totil is a joke lib, made with love but just for laughs 
 
-##Instalation
+## Instalation
 
 ```
 npm install totil
 ```
 
-##Usage
+## Usage
 
 ```javascript
-Totil = require("totil")
+const Totil = require("totil")
 
 
 if(Totil(something)){
